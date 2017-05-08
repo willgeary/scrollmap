@@ -24,7 +24,7 @@
     (0, s.default)({
         textContainer: document.querySelector(".text"),
         mapSrc: "img/map.svg",
-        trailVisitedColor: "#47DBB4",
+        trailVisitedColor: "#46b6db",
         fontPresentColor: "#5D5C56"
     }).appendTo(".container")
 }, function(t, e, i) {
